@@ -71,4 +71,4 @@ The major data processing steps applied where creating of the month and year col
  ## Conclution and Recommendation
  From the dashboard, there is a low percentage of fatal causualities which is fair. I have also observed that we have more accident cases for car users which occurs mainly during the dry season and in the day time. This could be because dry season is favourable for car use which could increase use of private cars and Traffic congestion. I would suggest that the goverment create linking roads and people are encouraged to use public transport.
 
-![Alt Text]()
+![Alt Text](https://github.com/Mario-Gozie/Accident-Data-Analysis/blob/main/Images/Thank_you_Accident.jpg)
